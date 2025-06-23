@@ -11,13 +11,13 @@ Dedicated to NLP algorithms, LLM (SFT、PPO、GRPO, etc.) research. I would like
 
 Education
 ======
-- **South China University of Technology**, Guangzhou, China  
-  *Master of Engineering in Automation*  
-  Sep. 2023 – Present
+- **Zhejiang University**, Hangzhou, China  
+  *Master of Control Science and Engineering*  
+  Sep. 2024 – Present
 
 - **South China University of Technology**, Guangzhou, China  
   *Bachelor of Engineering in Automation*  
-  Sep. 2019 – Jun. 2023  
+  Sep. 2020 – Jun. 2024
   GPA: 3.52 / 4.0, Top 23.68% (Rank 45/190)
 
 Work experience
